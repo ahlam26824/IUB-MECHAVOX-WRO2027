@@ -44,6 +44,7 @@ IUB-MECHAVOX-WRO2027/
 ├── 📸 2nslook.png                  ← Secondary render
 ├── 📸 frontsaide.png               ← Front view
 ├── 📸 LEFTside.png                 ← Left side view
+├── 📸 backside.png                 ← Back view
 └── 📸 WhatsApp Image ...jpeg       ← Team photo
 ```
 
