@@ -1,4 +1,4 @@
-# 🤖 IUB MECHAVOX — WRO 2027
+# IUB MECHAVOX — WRO 2027
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 IUB-MECHAVOX-WRO2027/
 │
 ├── 📄 index.html                   ← Interactive 3D Viewer (web page)
-├── 🤖 WRO-2027-IUBMECHAVOX.f3z    ← Fusion 360 3D Model Archive
+├── 📦 WRO-2027-IUBMECHAVOX.f3z    ← Fusion 360 3D Model Archive
 │
 ├── 📸 1stLOOK.png                  ← Hero render
 ├── 📸 2nslook.png                  ← Secondary render
